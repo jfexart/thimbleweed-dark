@@ -25,5 +25,5 @@ thimbleweed-dark
 
 
 <div>
-<p align="center"><img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/doloress.gif" width="160px" height="160px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/dolores.gif" width="160px" height="160px"/></p>
 </div>
