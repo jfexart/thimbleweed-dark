@@ -11,8 +11,8 @@ A dark theme based on [Dracula](https://draculatheme.com/) and inspired by the [
 | Palette    | Hex       | HSV              | :art:                                             |
 | ---------- | --------- | ---------------- | ------------------------------------------------- |
 | Background | `#212133` | `240°  35%  20%` | ![#212133](https://placehold.it/24/212133/212133) |
-| Foreground | `#E5FFF6` | `160°  10% 100%` | ![#E5FFF6](https://placehold.it/24/E5FFF6/E5FFF6) |
 | Selection  | `#424266` | `240°  45%  30%` | ![#424266](https://placehold.it/24/424266/424266) |
+| Foreground | `#E5FFF6` | `160°  10% 100%` | ![#E5FFF6](https://placehold.it/24/E5FFF6/E5FFF6) |
 | Comment    | `#7DB3B3` | `180°  30%  70%` | ![#7DB3B3](https://placehold.it/24/7DB3B3/7DB3B3) |
 | Blue       | `#3262A6` | `215°  70%  65%` | ![#3262A6](https://placehold.it/24/3262A6/3262A6) |
 | Green      | `#5BA693` | `165°  45%  65%` | ![#5BA693](https://placehold.it/24/5BA693/5BA693) |
@@ -38,5 +38,5 @@ A dark theme based on [Dracula](https://draculatheme.com/) and inspired by the [
 **Enjoy!**
 
 <div>
-<p align="center"><img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/dolores.gif" width="240px" height="240px"/></p>
+<img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/dolores.gif" width="240px" height="240px"/>
 </div>
