@@ -37,5 +37,5 @@ A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspir
 **Enjoy!**
 
 <div>
-<img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/dolores.gif" width="240px" height="240px"/>
+<img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/delores.gif" width="240px" height="240px"/>
 </div>
