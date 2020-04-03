@@ -22,16 +22,18 @@ A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspir
 | Teal       | `#509AB3` | ` 80 154 179` | `195°  55%  70%` | ![#509AB3](https://placehold.it/24/509AB3/509AB3) |
 | Yellow     | `#F2E291` | `242 226 145` | ` 50°  40%  95%` | ![#F2E291](https://placehold.it/24/F2E291/F2E291) |
 
-## App Themes
+## Apps Themes
 
 | App                   | Link                                                                                                     |
 | --------------------- | -------------------------------------------------------------------------------------------------------- |
 | Base 16               | Coming soon                                                                                              |
 | Fish Shell            | [https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
+| Gedit                 | Coming soon                                                                                              |
 | Gnome Terminal        | Coming soon                                                                                              |
-| Gnome Chrome          | Coming soon                                                                                              |
+| Google Chrome         | Coming soon                                                                                              |
 | Hyper                 | [https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
 | JetBrains             | Coming soon                                                                                              |
+| Slack                 | Coming soon                                                                                              |
 | Visual Studio Code    | [https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
 
 **Enjoy!**
