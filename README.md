@@ -28,7 +28,7 @@ A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspir
 | --------------------- | -------------------------------------------------------------------------------------------------------- |
 | Base 16               | Coming soon                                                                                              |
 | Fish Shell            | [https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
-| Gedit                 | Coming soon                                                                                              |
+| Gedit                 | [https://github.com/jfexart/thimbleweed-dark-gedit](https://github.com/jfexart/thimbleweed-dark-gedit)   |
 | Gnome Terminal        | Coming soon                                                                                              |
 | Google Chrome         | Coming soon                                                                                              |
 | Hyper                 | [https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
