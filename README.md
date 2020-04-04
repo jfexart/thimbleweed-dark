@@ -1,9 +1,9 @@
 # Thimbleweed Dark
 
-A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspired by the [Thimbleweed Park](https://thimbleweedpark.com/) videogame.
+A mysterious dark theme based on ![Dracula](https://draculatheme.com/) and inspired by the ![Thimbleweed Park](https://thimbleweedpark.com/) videogame.
 
 <div>
-<p align="center"><img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/thimbleweed-park.png" width="320px" height="180px"/></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/thimbleweed-park.png" width="480px" height="270px"/></p>
 </div>
 
 ## Palette Colors
@@ -24,20 +24,20 @@ A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspir
 
 ## Apps Themes
 
-| App                   | Link                                                                                                     |
-| --------------------- | -------------------------------------------------------------------------------------------------------- |
-| Base 16               | Coming soon                                                                                              |
-| Fish Shell            | [https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
-| Gedit                 | [https://github.com/jfexart/thimbleweed-dark-gedit](https://github.com/jfexart/thimbleweed-dark-gedit)   |
-| Gnome Terminal        | Coming soon                                                                                              |
-| Google Chrome         | Coming soon                                                                                              |
-| Hyper                 | [https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
-| JetBrains             | Coming soon                                                                                              |
-| Slack                 | [https://github.com/jfexart/thimbleweed-dark-slack](https://github.com/jfexart/thimbleweed-dark-slack)   |
-| Visual Studio Code    | [https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
+| App                   | Link                                                                                                      |
+| --------------------- | --------------------------------------------------------------------------------------------------------- |
+| Base 16               | Coming soon                                                                                               |
+| Fish Shell            | ![https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
+| Gedit                 | ![https://github.com/jfexart/thimbleweed-dark-gedit](https://github.com/jfexart/thimbleweed-dark-gedit)   |
+| Gnome Terminal        | Coming soon                                                                                               |
+| Google Chrome         | Coming soon                                                                                               |
+| Hyper                 | ![https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
+| JetBrains             | Coming soon                                                                                               |
+| Slack                 | ![https://github.com/jfexart/thimbleweed-dark-slack](https://github.com/jfexart/thimbleweed-dark-slack)   |
+| Visual Studio Code    | ![https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
 
 **Enjoy!**
 
 <div>
-<img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/delores.gif" width="240px" height="240px"/>
+  <img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/delores.gif" width="240px" height="240px"/>
 </div>
