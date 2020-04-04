@@ -33,7 +33,7 @@ A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspir
 | Google Chrome         | Coming soon                                                                                              |
 | Hyper                 | [https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
 | JetBrains             | Coming soon                                                                                              |
-| Slack                 | Coming soon                                                                                              |
+| Slack                 | [https://github.com/jfexart/thimbleweed-dark-slack](https://github.com/jfexart/thimbleweed-dark-slack)   |
 | Visual Studio Code    | [https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
 
 **Enjoy!**
