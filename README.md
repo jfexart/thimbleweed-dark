@@ -1,40 +1,38 @@
 # Thimbleweed Dark
 
-A mysterious dark theme based on ![Dracula](https://draculatheme.com/) and inspired by the ![Thimbleweed Park](https://thimbleweedpark.com/) videogame.
+A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspired by the [Thimbleweed Park](https://thimbleweedpark.com/) videogame.
 
-<div>
-  <p align="center"><img src="https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/thimbleweed-park.png" width="480px" height="270px"/></p>
-</div>
+![Thimbleweed Dark](https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/thimbleweed-park.png)
 
 ## Palette Colors
 
 | Palette    | Hex       | RGB           | HSV              | :art:                                             |
 | ---------- | --------- | --------------| ---------------- | ------------------------------------------------- |
-| Background | `#212133` | ` 33  33  51` | `240°  35%  20%` | ![#212133](https://placehold.it/24/212133/212133) |
-| Selection  | `#424266` | ` 66  66 102` | `240°  35%  40%` | ![#424266](https://placehold.it/24/424266/424266) |
-| Foreground | `#E5FFF6` | `229 255 246` | `160°  10% 100%` | ![#E5FFF6](https://placehold.it/24/E5FFF6/E5FFF6) |
-| Comment    | `#7DB3B3` | `125 179 179` | `180°  30%  70%` | ![#7DB3B3](https://placehold.it/24/7DB3B3/7DB3B3) |
-| Blue       | `#3262A6` | ` 50  98 166` | `215°  70%  65%` | ![#3262A6](https://placehold.it/24/3262A6/3262A6) |
-| Green      | `#5BA693` | ` 91 166 147` | `165°  45%  65%` | ![#5BA693](https://placehold.it/24/5BA693/5BA693) |
-| Pink       | `#CC7096` | `204 112 150` | `335°  45%  80%` | ![#CC7096](https://placehold.it/24/CC7096/CC7096) |
-| Purple     | `#4D528C` | ` 77  82 140` | `235°  45%  55%` | ![#4D528C](https://placehold.it/24/4D528C/4D528C) |
-| Red        | `#803951` | `128  57  81` | `340°  55%  50%` | ![#803951](https://placehold.it/24/803951/803951) |
-| Teal       | `#509AB3` | ` 80 154 179` | `195°  55%  70%` | ![#509AB3](https://placehold.it/24/509AB3/509AB3) |
-| Yellow     | `#F2E291` | `242 226 145` | ` 50°  40%  95%` | ![#F2E291](https://placehold.it/24/F2E291/F2E291) |
+| Background | `#1C2433` | ` 28  36  51` | `220°  45%  20%` | ![#1C2433](https://placehold.it/24/1C2433/1C2433) |
+| Selection  | `#3D364D` | ` 61  54  77` | `260°  30%  30%` | ![#3D364D](https://placehold.it/24/3D364D/3D364D) |
+| Foreground | `#F2FFF2` | `242 255 242` | `120°   5% 100%` | ![#F2FFF2](https://placehold.it/24/F2FFF2/F2FFF2) |
+| Comment    | `#5F5266` | ` 95  82 102` | `280°  20%  40%` | ![#5F5266](https://placehold.it/24/5F5266/5F5266) |
+| Red        | `#B3747E` | `179  16 126` | `350°  35%  70%` | ![#B3747E](https://placehold.it/24/B3747E/B3747E) |
+| Orange     | `#F2CA79` | `242 202 121` | ` 40°  50%  95%` | ![#F2CA79](https://placehold.it/24/F2CA79/F2CA79) |
+| Yellow     | `#E6E6A1` | `230 230 161` | ` 60°  30%  90%` | ![#E6E6A1](https://placehold.it/24/E6E6A1/E6E6A1) |
+| Green      | `#86BFB6` | `134 191 182` | `170°  30%  75%` | ![#86BFB6](https://placehold.it/24/86BFB6/86BFB6) |
+| Blue       | `#69A3BF` | `105 163 191` | `200°  45%  75%` | ![#69A3BF](https://placehold.it/24/69A3BF/69A3BF) |
+| Purple     | `#827A99` | `130 122 153` | `255°  20%  60%` | ![#827A99](https://placehold.it/24/827A99/827A99) |
+| Magenta    | `#8C6282` | `140  98 130` | `315°  30%  55%` | ![#8C6282](https://placehold.it/24/8C6282/8C6282) |
 
 ## Apps Themes
 
 | App                   | Link                                                                                                      |
 | --------------------- | --------------------------------------------------------------------------------------------------------- |
 | Base 16               | Coming soon                                                                                               |
-| Fish Shell            | ![https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
-| Gedit                 | ![https://github.com/jfexart/thimbleweed-dark-gedit](https://github.com/jfexart/thimbleweed-dark-gedit)   |
+| Fish Shell            | [https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
+| Gedit                 | [https://github.com/jfexart/thimbleweed-dark-gedit](https://github.com/jfexart/thimbleweed-dark-gedit)   |
 | Gnome Terminal        | Coming soon                                                                                               |
 | Google Chrome         | Coming soon                                                                                               |
-| Hyper                 | ![https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
+| Hyper                 | [https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
 | JetBrains             | Coming soon                                                                                               |
-| Slack                 | ![https://github.com/jfexart/thimbleweed-dark-slack](https://github.com/jfexart/thimbleweed-dark-slack)   |
-| Visual Studio Code    | ![https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
+| Slack                 | [https://github.com/jfexart/thimbleweed-dark-slack](https://github.com/jfexart/thimbleweed-dark-slack)   |
+| Visual Studio Code    | [https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
 
 **Enjoy!**
 
