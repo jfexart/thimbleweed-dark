@@ -1,6 +1,6 @@
 # Thimbleweed Dark
 
-A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspired by the [Thimbleweed Park](https://thimbleweedpark.com/) videogame.
+A mysterious dark theme inspired by the [Thimbleweed Park](https://thimbleweedpark.com/) videogame.
 
 ![Thimbleweed Dark](https://raw.githubusercontent.com/jfexart/thimbleweed-dark/master/thimbleweed-park.png)
 
@@ -19,20 +19,6 @@ A mysterious dark theme based on [Dracula](https://draculatheme.com/) and inspir
 | Blue       | `#69A3BF` | `105 163 191` | `200°  45%  75%` | ![#69A3BF](https://placehold.it/24/69A3BF/69A3BF) |
 | Purple     | `#827A99` | `130 122 153` | `255°  20%  60%` | ![#827A99](https://placehold.it/24/827A99/827A99) |
 | Magenta    | `#8C6282` | `140  98 130` | `315°  30%  55%` | ![#8C6282](https://placehold.it/24/8C6282/8C6282) |
-
-## Apps Themes
-
-| App                   | Link                                                                                                      |
-| --------------------- | --------------------------------------------------------------------------------------------------------- |
-| Base 16               | Coming soon                                                                                               |
-| Fish Shell            | [https://github.com/jfexart/thimbleweed-dark-fish](https://github.com/jfexart/thimbleweed-dark-fish)     |
-| Gedit                 | [https://github.com/jfexart/thimbleweed-dark-gedit](https://github.com/jfexart/thimbleweed-dark-gedit)   |
-| Gnome Terminal        | Coming soon                                                                                               |
-| Google Chrome         | Coming soon                                                                                               |
-| Hyper                 | [https://github.com/jfexart/thimbleweed-dark-hyper](https://github.com/jfexart/thimbleweed-dark-hyper)   |
-| JetBrains             | Coming soon                                                                                               |
-| Slack                 | [https://github.com/jfexart/thimbleweed-dark-slack](https://github.com/jfexart/thimbleweed-dark-slack)   |
-| Visual Studio Code    | [https://github.com/jfexart/thimbleweed-dark-vscode](https://github.com/jfexart/thimbleweed-dark-vscode) |
 
 **Enjoy!**
 
